@@ -9,7 +9,7 @@ package com.sectionedrecyclerviewdemo;
     // commit by durai
 
     // Committed....
-    // Test file
+    // Test file   by arunn
 
 public enum  RecyclerViewType {
     LINEAR_VERTICAL,LINEAR_HORIZONTAL,GRID;
