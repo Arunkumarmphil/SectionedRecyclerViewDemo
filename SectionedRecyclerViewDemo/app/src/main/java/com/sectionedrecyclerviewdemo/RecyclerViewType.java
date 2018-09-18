@@ -6,6 +6,8 @@ package com.sectionedrecyclerviewdemo;
 
 // sample file for commit..
 
+    // commit by durai
+
 public enum  RecyclerViewType {
     LINEAR_VERTICAL,LINEAR_HORIZONTAL,GRID;
 }
